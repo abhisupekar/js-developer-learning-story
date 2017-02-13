@@ -1,6 +1,6 @@
-# js-developer-learning-story
+# JS-Developer-Learning-Story
 
-## Every JS should Know
+## Every JS Developer Should Know
 
 - JavaScript Objects in Detail
 - JavaScript Prototype in Plain, Detailed Language
