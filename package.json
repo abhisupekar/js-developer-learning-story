@@ -1,0 +1,22 @@
+{
+  "name": "js-developer-learning-story",
+  "version": "1.0.0",
+  "description": "Nodejs examples",
+  "main": "testPromise.js",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinreddy3/js-developer-learning-story.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "reddynitin3@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinreddy3/js-developer-learning-story/issues"
+  },
+  "homepage": "https://github.com/nitinreddy3/js-developer-learning-story#readme"
+}
