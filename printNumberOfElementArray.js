@@ -22,7 +22,6 @@ function repChar(arr, ele) {
         let count = 0;
         arr.forEach((v) => ele === v && count++ );
         return count;
-
     }
 }
 
