@@ -19,3 +19,16 @@
 - The Best JavaScript Front-end Frameworks You Should be Using
 - Preventing and Handling JavaScript Errors and Debugging Your Code
 - JavaScript Design Patterns that Every JavaScript Developer Should Know
+
+## Top 10 things serious JS Developers should know
+
+- Scope
+- Architecture
+- DOM
+- NodeJS
+- Timing and asynchronous operations
+- Accessibility
+- Security
+- Data Structures
+- Presentation and semantics
+- Knowing when to avoid bullshit
