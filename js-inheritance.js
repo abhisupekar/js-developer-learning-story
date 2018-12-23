@@ -15,5 +15,7 @@ function Teacher (age, name, sex){
 }
 
 let p1 = new Teacher(23, 'Puja', 'Female')
+let p2 = new Teacher(27, 'Nitin', 'Male')
+
 
 console.log(p1.getInfo())
