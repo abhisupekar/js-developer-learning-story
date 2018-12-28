@@ -7,7 +7,7 @@ function Person (age, name) {
 }
 
 function Teacher (age, name, sex){
-    Person.call(this, age, name);
+    Person.call(this);
     this.sex = sex;
     this.getInfo = function () {
         console.log(`Name: ${this.name} Age: ${this.age} Sex: ${this.sex}`)
